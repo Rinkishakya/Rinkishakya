@@ -1,33 +1,81 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Rinki Shakya</h1>
-<h3 align="center">Full Stack Java Developer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e16e7418a6826b5d698e941c0888d251b8eaf748f61d4a4a656d4c83e9531766/68747470733a2f2f632e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkishakya&label=Profile%20views&color=0e75b6&style=flat" alt="rinkishakya" /> </p>
-
-- 📫 How to reach me **rinkishakya270@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://rinkishakya270@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://rinkishakya270@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/rinki___shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinki___shakya" height="30" width="40" /></a>
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<h1 align="center">Hi 👋, I'm Rinki Shakya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
 </p>
+<p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using bootstrap and CSS on the frontend, Java and DSA on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on *My Personal Development*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkishakya&show_icons=true&locale=en&layout=compact" alt="rinkishakya" /></p>
+- 🌱 I’m currently learning *JavaScript Java and Database*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinkishakya&show_icons=true&locale=en" alt="rinkishakya" /></p>
+- 👨‍💻 All of my projects are available at [https://rinkishakya.github.io/](https://rinkishakya.github.io)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkishakya&" alt="rinkishakya" /></p>
+- 💬 Ask me about *JAVA HTML CSS JavaScript & Database*
 
-</body>
-</html>
+- 📫 How to reach me *rinkishakya270@gmail.com*
+
+<!-- - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1s5NSF8OzDjexXvByK8FHkAcyidkT5aLG/view?usp=sharing">Resume</a> -->
+
+
+
+## 🏆 Trophies :
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshakya88&theme=onedark" alt="devshakya88" /></a> </p>
+
+## 👨‍💻 TECH STACK :
+
+<div align="center" style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+
+## ✅ Github Stats :
+
+<div align="center" style="display: flex; flex-wrap: wrap;">
+
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=rinkishakya&theme=radical&border_radius=2.7&show_icons=true" alt="Rinki shakya" />
+
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinkishakya&theme=radical&border_radius=2.7" alt="Rinki shakya GitHub Contribution"/>
+  
+
+  
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkishakya&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=2.7" alt="rinkishakya" />
+  
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkishakya&theme=radical&border_radius=2.7" alt="rinkishakya" />
+  
+</div>
+
+<h2>🌍 Connect with me :</h2>
+   <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rinki-shakya/" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/linkedin.png"
+                alt="https://www.linkedin.com/in/rinki-shakya/" width="40px" />
+        </a>
+        <a href="https://github.com/rinkishakya" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/github.png"
+                alt="https://github.com/rinkishakya" width="40px"/>
+        </a>
+    </p>
+    <h2>❤ Views and Followers :</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/rinkishakya/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=rinkishakya" >
+    </a>
+    <a href="https://github.com/rinkishakya?tab=followers">
+        <img src="https://img.shields.io/github/followers/rinkishakya?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+    <hr />
+    <!-- <h2><a href="https://devshakya88.github.io">🌍 | Portfolio </a></h2> -->
