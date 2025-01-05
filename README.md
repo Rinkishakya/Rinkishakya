@@ -1,5 +1,5 @@
 
-  </style>
+
 <h1 align="center">Hi 👋, I'm Rinki Shakya</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
