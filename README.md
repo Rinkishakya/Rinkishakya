@@ -5,7 +5,7 @@
 </p>
 <p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using bootstrap and CSS on the frontend, Java and DSA on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
-- 🔭 I’m currently working on *My Personal Development*
+- 🔭 I’m currently learning on *My Personal Development*
 
 - 🌱 I’m currently learning *JavaScript Java and Database*
 
