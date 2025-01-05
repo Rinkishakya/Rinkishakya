@@ -1,7 +1,7 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <h1 align="center">Hi 👋, I'm Rinki Shakya</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20JAVA%20Developer;&center=true&width=700&height=50">
+  <img src="https://www.google.com/imgres?q=BANNER%20JAVA%20CODING%20GIF&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F01%2F94%2F01%2F00%2F360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fprogramming-banner-coding-best-programming-languages%2F194010093&docid=jCIIHcEZoQrlLM&tbnid=uLfqHRkfehUwoM&vet=12ahUKEwj6zIWRkN-KAxW4SWwGHTYeJ5EQM3oECDYQAA..i&w=720&h=360&hcb=2&ved=2ahUKEwj6zIWRkN-KAxW4SWwGHTYeJ5EQM3oECDYQAA&center=true&width=700&height=50">
 </p>
 <p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using bootstrap and CSS on the frontend, Java and DSA on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
