@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?q=banner%20coding%20java&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fprogramming-banner-coding-best-languages-260nw-1033853617.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fjava-banner&docid=dAsoyXbjc3BYUM&tbnid=EoJG9GvqpLyaIM&vet=12ahUKEwjQ-rXM8OCKAxW42jgGHUk-I0gQM3oECCkQAA..i&w=520&h=280&hcb=2&ved=2ahUKEwjQ-rXM8OCKAxW42jgGHUk-I0gQM3oECCkQAA"/>
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 <h1 align="center">Hi 👋, I'm Rinki Shakya</h1>
 <p align="center">
