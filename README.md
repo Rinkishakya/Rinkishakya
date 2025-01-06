@@ -50,7 +50,7 @@
   
 
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkishakya&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=2.7" alt="rinkishakya" />
+<!--<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkishakya&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=2.7" alt="rinkishakya" />-->
   
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkishakya&theme=radical&border_radius=2.7" alt="rinkishakya" />
   
