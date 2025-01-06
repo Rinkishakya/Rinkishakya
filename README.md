@@ -1,4 +1,5 @@
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<img src="https://www.google.com/imgres?q=banner%20coding%20java&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fprogramming-banner-coding-best-languages-260nw-1033853617.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fjava-banner&docid=dAsoyXbjc3BYUM&tbnid=EoJG9GvqpLyaIM&vet=12ahUKEwjQ-rXM8OCKAxW42jgGHUk-I0gQM3oECCkQAA..i&w=520&h=280&hcb=2&ved=2ahUKEwjQ-rXM8OCKAxW42jgGHUk-I0gQM3oECCkQAA"/>
+
 <h1 align="center">Hi 👋, I'm Rinki Shakya</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20JAVA%20Developer;&center=true&width=800&height=80">
@@ -48,7 +49,7 @@
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinkishakya&theme=radical&border_radius=2.7" alt="Rinki shakya GitHub Contribution"/>
   
-
+<br>
   
 <!--<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkishakya&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=2.7" alt="rinkishakya" />-->
   
